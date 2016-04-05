@@ -3,5 +3,5 @@
 read me!
 
 * a
- * b
-  * c
+ - b
+  + c
